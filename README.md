@@ -1,0 +1,1 @@
+Sabari Birthday Website. Replace media files in images/ and videos/, then open index.html or upload to GitHub Pages.
